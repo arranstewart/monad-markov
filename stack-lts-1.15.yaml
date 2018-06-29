@@ -1,0 +1,14 @@
+resolver: lts-1.15
+flags: {}
+packages:
+- .
+extra-deps:
+- MonadRandom-0.5
+- base-compat-0.10.1
+- fail-4.9.0.0
+- mtl-2.2.2
+- primitive-0.6.4.0
+- random-1.1
+- transformers-0.5.5.0
+- transformers-compat-0.5.1.4
+
